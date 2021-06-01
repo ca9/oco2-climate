@@ -3,6 +3,7 @@ Project covering analysis of OCO-2 NASA data for tracking atmospheric Carbon (XC
 and exploring suitability for policy evaluations.
 
 ![Measured Emissions](r_code/plots/full_plot.png)
+![Sammis Plant](r_code/plots/snippet.png)
 
 ## Analysis Paper / Background
 Is attached as a [pdf](Analysis.pdf).
