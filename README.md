@@ -3,7 +3,7 @@ Project covering analysis of OCO-2 NASA data for tracking atmospheric Carbon (XC
 and exploring suitability for policy evaluations.
 
 ![Measured Emissions](r_code/plots/full_plot.png)
-![Sammis Plant](r_code/plots/snippet.png)
+![Sammis Plant](r_code/plots/sammis.png)
 
 ## Analysis Paper / Background
 Is attached as a [pdf](Analysis.pdf).
@@ -26,7 +26,7 @@ https://disc.gsfc.nasa.gov/datasets/OCO2_L2_Lite_FP_10r/summary?keywords=OCO-2
 This was cropped at source for areas surrounding Sammis Plant 
 https://www.gem.wiki/Sammis_Plant 
 
-![Sammis Plant](r_code/plots/snippet.png)
+![Sammis Plant](r_code/plots/sammis.png)
 
 in Ohio, US, and lat-long regions up to 200km away, to observe XCO2 flux correlated with Plant 
 shutdowns or activity. This was then processed in:
