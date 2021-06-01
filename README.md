@@ -5,9 +5,6 @@ and exploring suitability for policy evaluations.
 ![Measured Emissions](r_code/plots/full_plot.png)
 ![Sammis Plant](r_code/plots/sammis.png)
 
-## Analysis Paper / Background
-Is attached as a [pdf](Analysis.pdf).
-
 ## [Data](data/)
 The data folder contains XCO2 (Atmospheric Carbon Di-Oxide) data retrieved from:
 
